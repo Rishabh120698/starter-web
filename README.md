@@ -17,3 +17,7 @@ This is the Maintanence Section
 ### Copyright
 
 2020 git training 
+
+###how to contribute
+
+please fork this respository and then issue pull requestfor review.
