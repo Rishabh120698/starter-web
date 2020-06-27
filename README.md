@@ -9,3 +9,8 @@ Sample website with plenty of files for demos
 ## Introduction
 
 ## Deployment
+This is the deployment stage
+
+## Maintanence
+
+This is the Maintanence Section
