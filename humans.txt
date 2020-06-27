@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rishabh Singh 15cse145.giet@gmail.com
 
 # THANKS
 
