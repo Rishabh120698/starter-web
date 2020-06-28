@@ -17,7 +17,7 @@ This is the deployment stage
 This is the Maintanence Section
 ### Copyright
 
-2020 git training 
+2020 git training all right sreserved 
 
 ###how to contribute
 
